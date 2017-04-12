@@ -1,0 +1,1 @@
+{"eventname":"CSCI-4041","starttime":"11:00","endtime":"12:00","location":"keller hall","day":"Monday"}

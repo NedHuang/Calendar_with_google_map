@@ -1,0 +1,86 @@
+
+html, body
+{
+	background: lightblue;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#map
+{
+  height: 55%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#loc_form
+{
+  margin: 0 auto;
+  width: 30%;
+}
+
+
+h1
+{
+  color: black;
+}
+
+#calendar_table
+{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table
+{
+	align: center;
+	width: 60%;
+  border-spacing: 10px;
+  border-collapse: separate;
+	border-color: black;
+}
+
+td
+{
+  background-color: lightpink;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#navmenu
+{
+  background-color: gold;
+}
+
+#navmenu li
+{
+  display: inline;
+  padding: 20px;
+}
+
+
+/* force form to line up nicely */
+button
+{
+  margin: auto;
+}
+form
+{
+  display: table;
+  margin: auto;
+}
+label
+{
+  display: table-cell;
+}
+form p
+{
+  display: table-row;
+}
+input
+{
+  display: table-cell;
+}
